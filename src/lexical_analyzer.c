@@ -65,6 +65,7 @@ enum Token {
     KEYWORD_MAIN,
 };
 
+/*
 KEYWORDS = {
     "public":   Token.KEYWORD_PUBLIC,
     "class":    Token.KEYWORD_CLASS,
@@ -78,3 +79,5 @@ KEYWORDS = {
     "println":  Token.KEYWORD_PRINTLN,
     "main":     Token.KEYWORD_MAIN,
 }
+*/
+
