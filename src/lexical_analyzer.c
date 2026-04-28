@@ -197,6 +197,7 @@ int lex() {
     return next_token;
 }
 
+/*
 int main() {
     char file_path[256];
 
@@ -218,3 +219,4 @@ int main() {
     fclose(fp);
     return 0;
 }
+*/
